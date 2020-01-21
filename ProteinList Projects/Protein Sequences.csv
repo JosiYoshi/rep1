@@ -1,0 +1,14 @@
+Sequence,Type,Origin Line,Name,Organism,More Info,Link
+tgtgccatga ctatatatgt ctgcaaataa ggatataaat ataaagacct ggacaagtta,DNA     linear   MAM,1,SINE (C48),Oryctolagus cuniculus (rabbit),,https://www.ncbi.nlm.nih.gov/nuccore/AH001228.2
+atggatttga ctaccaatgc aagagctctt aggagactga gaactcagtg cgagcgtgca,DNA     linear   INV,1,HSP70,Cryptosporidium felis,"Oocysts, parasites",https://www.ncbi.nlm.nih.gov/nuccore/AF323571.1
+atgacaatcc ttgataaagg ttgggaaaga acacaaatca aagttttctc cagatggtgt,mRNA    linear   INV,1,TVAG_190450,Histomonas meleagridis,,https://www.ncbi.nlm.nih.gov/nuccore/FM200072.2
+acggcctttg gggtgaggta gtaggttgta tggttttggg ctctgccccg ctctgcggta,RNA     linear,1,Mirlet7c2,Rattus norvegicus,,https://www.ncbi.nlm.nih.gov/nuccore/296923635
+ttagatgttc tgggccgcac gcgcgctaca ctgatgtatt caacgagttt atagccttgg,DNA     linear,1,18S-25/28S ribosomal RNA,Angiosperm environmental sample clone,,https://www.ncbi.nlm.nih.gov/nuccore/FJ554461.1
+ttggaccagt aatgccaatt aaacaacctg ctgtcagacc caagtcacgc aagatcactg,mRNA    linear,1,Blattella germanica cDNA 5',Blattella germanica (German cockroach),similar to ribosomal protein L13,https://www.ncbi.nlm.nih.gov/nuccore/JZ881146.1
+ctcgtaaatc tactggcggc aaggctccca ggaaacaact ggctaccaaa gccgccagga,DNA     linear,1,MN001 histone 3 gene,Mantis religiosa (praying mantis),,https://www.ncbi.nlm.nih.gov/nuccore/AY491327.1
+gcgggggagg cctcccaccc ctaactggat tttcccctaa atgagttatt atccaagaaa,mRNA    linear,1,,Chinchilla lanigera (long-tailed chinchilla),,
+gctccactga tgttcaataa agtaaccctg tttcaaactc aagcatgtgt tggagtaaga,mRNA    linear,1,,Aurelia aurita (moon jelly),,
+tctataatca ccaatacacc aataagcaaa gaccaaccag tgacaaccac tagccaggtt,DNA     linear,1,NADH dehydrogenase subunit 6 (ND6),Panthera tigris (tiger),,https://www.ncbi.nlm.nih.gov/nuccore/JZ331703.1
+atgttccctc tacttcattt catcgtcctg atagatgtca aagattttcc actgactgag,mRNA    linear,1,INSL3 receptor (LGR8),Canis lupus familiaris (dog),,https://www.ncbi.nlm.nih.gov/nuccore/AY749634.1
+acctgtcaca gccacctcag ctctcgttga gaacgcaacc accgctctat actcgatccc,mRNA    linear,1,NM_057384,Drosophila melanogaster (fruit fly),,https://www.ncbi.nlm.nih.gov/nuccore/NM_057384
+ccttggatcc gacgcccctt tttccctttc cactcaccca gccgaatctt tgaccagttc,DNA     linear,1,Macropus rufus alpha B crystallin (crab) gene,Osphranter rufus (red kangaroo),,https://www.ncbi.nlm.nih.gov/nuccore/37727176
